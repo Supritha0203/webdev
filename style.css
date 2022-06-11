@@ -1,0 +1,50 @@
+body{
+background-color:#ececec;
+padding-left:25px;
+font-family:"Franklin Gothic";
+}
+.timesnewroman{
+font-family:Times New Roman;
+text-align:center;
+font-size:60px;
+margin-top:50px;
+margin-bottom:10px;
+}
+.quote{
+text-align:right;
+font-size:20px;
+}
+.image{
+display:block;
+margin:5px auto 5px auto;
+padding:2px;
+border:2px groove;
+border-color:#94941;
+}
+.contents{
+width:25%;
+}
+main{
+padding-bottom:20px;
+}
+th,td{
+
+overflow:auto;
+table-layout:fixed;
+}
+.bold{
+font-weight:bold;
+}
+.inline{
+float:right;
+}
+.inli{
+float:left;
+}
+.imag{
+display:inline;
+padding:2px;
+border:2px groove;
+margin:5px;
+height:100px;
+width:80px;
